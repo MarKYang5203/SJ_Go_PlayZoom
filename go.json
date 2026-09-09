@@ -1,10 +1,10 @@
 {
   "version": "2",
   "arm64": [
-    "https://github.com/MarKYang5203/SJ_Go_PlayZoom/releases/download/v1.0/arm64-v8a-release-obf"
+    "https://github.com/MarKYang5203/SJ_Go_PlayZoom/releases/download/v2.0/arm64-v8a-release-obf"
   ],
   "x8664": [
-    "https://github.com/MarKYang5203/SJ_Go_PlayZoom/releases/download/v1.0/x86_64-release-obf"
+    "https://github.com/MarKYang5203/SJ_Go_PlayZoom/releases/download/v2.0/x86_64-release-obf"
   ],
   "x8632": []
 }
